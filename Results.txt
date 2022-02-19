@@ -1,0 +1,8 @@
+Account Balance, Start: 0.000109
+End 0.008386
+Bubble List ASC, Start: 0.00867
+0	1	2	5	10	14	18	19	25	43	45	
+End 0.008763
+Bubble List DESC, Start: 0.008885
+End 0.008956
+45	43	25	19	18	14	10	5	2	1	0	
